@@ -1,6 +1,7 @@
-# Calculator
+# Calculator 
 
-in working process 
+<img src = "main.png">
+Brackets Incomplete 
 <br>
 Author - Albino Kaushik
 <br>
