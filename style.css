@@ -78,6 +78,7 @@ button{
     text-align: center;
     justify-content: center;
     background-color: white;
+    font-weight: 700;
 }
 
 button:hover{
